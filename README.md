@@ -19,5 +19,5 @@
 
 
 
-(https://github.com/Shri-8624/Cricket-Data-Analytics/blob/master/Paramaeter%20Scoping.pdf)
+[](https://github.com/Shri-8624/Cricket-Data-Analytics/blob/master/Paramaeter%20Scoping.pdf)
 
