@@ -19,5 +19,5 @@
 
 
 
-![(./Paramaeter Scoping.pdf)](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+(./Paramaeter Scoping.pdf)
 
