@@ -1,21 +1,35 @@
 
-# Cricket Data Analytics
+# Data Analytics Project
+This is an end-to-end sports data analytics project where we cover web scraping (from the ESPN Cricinfo website), Python, Pandas, and Power BI to perform analyses on T20 World Cup cricket data. In this project, we use cricket T20 World Cup (2022) data to build insights on the best 11 players team that we can assemble from the earth to play with aliens.
 
-- The project involves analyzing T20 World Cup cricket data using web scraping, Python, Pandas, and Power BI.
+## Project Overview
+The project involves the following steps:
 
-- The goal is to assemble a team of the best 11 cricket players who could represent Earth in a game against aliens.
+1. Web scraping the data from the ESPN Cricinfo website using Bright Data.
+2. Data cleaning and transformation using Pandas.
+3. Building dashboards in Power BI to visualize and analyze the data.
+4. Identifying the best 11 players team based on the analysis to play with aliens.
 
-- Web scraping is performed using Bright Data to collect data from ESPN Cricinfo.
+## Project Materials
+The project materials are included in this repository and are organized as follows:
 
-- The collected data is then transformed and cleaned using Pandas.
+* data/: Contains the raw and processed data files.
+* notebooks/: Contains the Jupyter notebooks used for data cleaning and analysis.
+* reports/: Contains the final reports generated from the analysis.
+* dashboards/: Contains the Power BI dashboards used to visualize the data.
 
-- The final step involves building interactive dashboards using Power BI to visualize the insights and findings.
+## Getting Started
+To get started with this project, follow these steps:
 
-- This is a great project for both beginners and advanced users.
+1. Clone this repository to your local machine.
+2. Install the necessary Python packages listed in the requirements.txt file.
+3. Open the Jupyter notebooks in the notebooks/ directory and run them to perform data cleaning and analysis.
+4. Open the Power BI dashboards in the dashboards/ directory to visualize the data.
+5. Review the final reports in the reports/ directory to see the results of the analysis.
 
-- All the necessary materials are included for a fully guided data analytics experience.
+## Conclusion
+This is a solid data science project that will help you to build skills in web scraping, data cleaning and transformation, data analysis, and data visualization. It is also a great addition to your resume and will make it stand out in the competition. Feel free to use this project as a template for your own data analytics projects.
 
-- Completing this project and including it on a resume can make the candidate stand out in the competitive field of data science.
 
 
 
